@@ -1,0 +1,20 @@
+/* primary.css */
+* { margin: 0px; padding: 0px; }
+body { 	background: lavender url('../images/Demo.jpg') no-repeat;
+}
+#container { width: 90%; border: 1px solid #aaa; 
+				background-color: #fff; min-height: 500px;
+				margin: 20px auto;
+}
+p#box1 { width: 100px; height: 100px; background-color: fuchsia; font-size: 12px; }
+#box2 { margin-bottom: 20px; width: 100px; height: 100px; background-color: aquamarine; }
+.center { text-align: center; }
+.purple { color: purple; }
+	
+p { font:12px Tahoma; }
+
+a:link { font: 20px Tahoma; text-decoration: none; color: orange; }
+a:visited { }
+a:hover { text-decoration: underline; color: pink;}
+a:active {}
+
